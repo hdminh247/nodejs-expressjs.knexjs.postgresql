@@ -1,0 +1,106 @@
+{
+  "system.customMessage": {
+    "code": 2000,
+    "message": "Error"
+  },
+  "auth.fail": {
+    "code": 3000,
+    "message": "Wrong email or password"
+  },
+  "auth.token.invalid": {
+    "code": 3001,
+    "message": "Unauthenticated"
+  },
+  "permission.fail": {
+    "code": 3002,
+    "message": "Permission denied"
+  },
+  "email.invalid": {
+    "code": 4001,
+    "message": "Invalid email"
+  },
+  "phone.invalid": {
+    "code": 4002,
+    "message": "Invalid phone"
+  },
+  "name.invalid": {
+    "code": 4003,
+    "message": "Invalid name"
+  },
+  "fullTimeW2Employee.invalid": {
+    "code": 4004,
+    "message": "Invalid fullTimeW2Employee"
+  },
+  "code.invalid": {
+    "code": 4005,
+    "message": "Invalid code"
+  },
+  "password.invalid": {
+    "code": 4006,
+    "message": "Invalid password"
+  },
+  "confirmPassword.invalid": {
+    "code": 4007,
+    "message": "Invalid confirmPassword"
+  },
+  "data.invalid": {
+    "code": 4008,
+    "message": "Invalid data"
+  },
+  "step.invalid": {
+    "code": 4009,
+    "message": "Invalid step"
+  },
+  "role.invalid": {
+    "code": 4010,
+    "message": "Invalid role"
+  },
+  "email.existing": {
+    "code": 4011,
+    "message": "Email already existed"
+  },
+  "password.confirmPassword.notMatched": {
+    "code": 4012,
+    "message": "Password and confirm password are not matched"
+  },
+  "applicationStatus.required": {
+    "code": 4014,
+    "message": "Status is required"
+  },
+  "applicationStatus.invalid": {
+    "code": 4015,
+    "message": "Invalid status"
+  },
+  "application.notFound": {
+    "code": 4016,
+    "message": "Application not found"
+  },
+  "status.notFound": {
+    "code": 4017,
+    "message": "Status not found"
+  },
+  "status.name.required": {
+    "code": 4018,
+    "message": "Name is required"
+  },
+  "status.description.required": {
+    "code": 4019,
+    "message": "Description is required"
+  },
+  "provider.notFound": {
+    "code": 4020,
+    "message": "Provider not found"
+  },
+  "sign.notFound": {
+    "code": 4021,
+    "message": "Signed document not found"
+  },
+  "file.notFound": {
+    "code": 4022,
+    "message": "File not found"
+  },
+  "user.notFound": {
+    "code": 4023,
+    "message": "User not found"
+  }
+}
